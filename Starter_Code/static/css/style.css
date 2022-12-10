@@ -1,0 +1,17 @@
+
+
+body {
+    background-color: #fcdbe9;
+    }
+  
+    .jumbotron {
+      background-image: url("../images/image2.png");
+      background-size: 100% 100%;
+      text-align: center;
+    }
+  
+    h3 {
+  
+      font-family: inherit; 
+      font-size: 20rem;
+  }
